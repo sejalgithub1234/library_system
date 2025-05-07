@@ -1,0 +1,30 @@
+/* ToDoItem.css */
+.completed {
+    text-decoration: line-through;
+    color: gray;
+  }
+  
+  .delete-button {
+    padding: 5px 10px;
+    background-color: #f44336;
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .delete-button:hover {
+    background-color: #d32f2f;
+  }
+  .complete-button {
+    padding: 5px 10px;
+    margin-right: 8px;
+    background-color: green;
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .complete-button:hover {
+    background-color: greenyellow;
+  }
+  
